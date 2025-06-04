@@ -31,7 +31,7 @@ st.markdown(
 )
 
 # Lecturer credentials
-lecturer_credentials = {"Dr. Smith": "password123"}
+lecturer_credentials = {"Lecturer": "password123"}
 
 # Expected outputs and code patterns for marking
 expected_outputs = {
